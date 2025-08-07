@@ -1,8 +1,6 @@
-import React from 'react'
 import { createBrowserRouter } from 'react-router-dom'
 import App from '../App'
 import Home from '../pages/Home'
-import Profile from '../components/Profile'
 import Login from '../components/Login'
 import Signup from '../components/Siginup'
 import  Myquestionapp from '../components/Myquestionapp' 
