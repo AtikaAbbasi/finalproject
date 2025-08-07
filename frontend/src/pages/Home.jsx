@@ -42,7 +42,7 @@ export default function Home() {
                 {q.title}
               </h2>
               <h2 className="font-semibold text-gray-500 mb-2">
-                {q.question}
+                {q.description}
               </h2>
               <p className="text-sm text-gray-600 mb-1">
                 Asked by: {q.author || "Anonymous"}
