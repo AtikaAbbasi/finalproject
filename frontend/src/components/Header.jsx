@@ -54,7 +54,7 @@ const Header = () => {
           <NavLink to="/question" class="block py-2 px-3 text-white bg-blue-700 rounded-sm md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500" aria-current="page">Questions</NavLink>
         </li>
        <li>
-          <NavLink to="/write" class="block py-2 px-3 text-white bg-blue-700 rounded-sm md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500" aria-current="page" >Ask</NavLink>
+          <NavLink to="/write" class="block py-2 px-3 text-white bg-blue-700 rounded-sm md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500" aria-current="page" >Ask question</NavLink>
         </li>
           </ul>
         </div>
